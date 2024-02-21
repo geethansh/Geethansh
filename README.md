@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack developement/DSA<br>👯 I’m looking to work on Software/Web Developement<br>🌱 I’m currently learning AWS<br>💬 Ask me about Web dev<br>⚡Self taught programmer
+🔭 I’m currently working on Full Stack Developement/DSA<br>👯 I’m looking to work on Software/Web Developement<br>🌱 I’m currently learning AWS<br>💬 Ask me about Web dev<br>⚡Self taught programmer
 
 
 # 💻 Tech Stack:
